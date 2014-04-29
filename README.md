@@ -17,5 +17,9 @@ This repository will have all of my exercises that I use when practicing for tec
 
 Languages of problem sets will be in either C++, Java, or Python.
 
-I will have this done by end of Summer 2014.  
+I will have this done by end of Summer 2014. 
+
+Files:
+
+--ReverseString.java -- Given 30 minutes, how many ways can you reverse a String. 
 
